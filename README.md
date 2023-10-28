@@ -13,4 +13,4 @@ Document name  | Description
 ---------------|------------
 README.md |a short description of the project
 Function of Summarizing Groups.Rmd | functions, examples, and test cases
-Function-of-Summarizing-Groups.html| Function of Summarizing Groups.Rmd knitted to a html file (git readable)
+Function-of-Summarizing-Groups.md| Function of Summarizing Groups.Rmd knitted to a markdown file (git readable)
