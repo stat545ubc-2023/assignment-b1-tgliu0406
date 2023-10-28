@@ -4,7 +4,7 @@ This repository is a collection of materials and code related to my STAT 545B as
 
 ## About
 
-This repository contains the work I've done for assignment B1. It includes a function that I created, along with some examples and test cases.
+This repository contains the work I've done for assignment B1. It includes a function that I created, along with some examples and test cases. This function is a customized combination of grouping and summarizing of data.
 
 ## Getting Started
 
